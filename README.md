@@ -24,7 +24,7 @@
 
 ---
 
-## 📂 My Recent Project  
+## 📂 My Project  
 🎬 [Front_AWS Repository](https://github.com/mingyeol1/front_aws)
 
 </div>
